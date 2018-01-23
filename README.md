@@ -44,7 +44,7 @@ npm install --save neutrino-preset-emotion emotion react-emotion
   And that's all. For `emotion` specific usage, see their [docs][emotion-url].
   For Neutrino usage, refer to their [documentation][neutrino-docs].
 
-[npm-image]: https://img.shields.io/npm/v/neutrino-preset-styled-jsx.svg
+[npm-image]: https://img.shields.io/npm/v/neutrino-preset-emotion.svg
 [npm-url]: https://npmjs.org/package/neutrino-preset-emotion
 [emotion-url]: https://emotion.sh/docs
 [css-js-url]: https://github.com/MicheleBertoli/css-in-js
