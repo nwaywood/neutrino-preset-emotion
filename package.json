@@ -1,6 +1,6 @@
 {
   "name": "neutrino-preset-emotion",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Neutrino preset for adding emotion support",
   "author": "Nick Waywood <n.waywood@gmail.com>",
   "main": "index.js",
