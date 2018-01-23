@@ -1,0 +1,32 @@
+{
+  "name": "neutrino-preset-emotion",
+  "version": "0.0.1",
+  "description": "Neutrino preset for adding emotion support",
+  "author": "Nick Waywood <n.waywood@gmail.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwaywood/neutrino-preset-emotion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nwaywood/neutrino-preset-emotion/issues"
+  },
+  "keywords": [
+    "css-in-js",
+    "jsx",
+    "neutrino",
+    "neutrino-preset",
+    "react",
+    "emotion"
+  ],
+  "dependencies": {
+    "@neutrinojs/loader-merge": "^8.0.18",
+    "babel-plugin-emotion": "^8.0.12"
+  },
+  "peerDependencies": {
+    "neutrino": "^8.0.18",
+    "emotion": "^8.0.12",
+    "react-emotion": "^8.0.12"
+  },
+  "license": "GPL-3.0"
+}
